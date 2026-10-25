@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Saída de build
+dist/
+build/
+
+# Arquivos locais e do sistema
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
